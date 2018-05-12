@@ -1,0 +1,11 @@
+C:\Users\Igor\source\repos\STO\STO\obj\Debug\STO.csprojResolveAssemblyReference.cache
+C:\Users\Igor\source\repos\STO\STO\obj\Debug\STO.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\STO\STO\bin\Debug\STO.exe.config
+C:\Users\Igor\source\repos\STO\STO\bin\Debug\STO.exe
+C:\Users\Igor\source\repos\STO\STO\bin\Debug\STO.pdb
+C:\Users\Igor\source\repos\STO\STO\bin\Debug\EntityFramework.dll
+C:\Users\Igor\source\repos\STO\STO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Igor\source\repos\STO\STO\bin\Debug\EntityFramework.xml
+C:\Users\Igor\source\repos\STO\STO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Igor\source\repos\STO\STO\obj\Debug\STO.exe
+C:\Users\Igor\source\repos\STO\STO\obj\Debug\STO.pdb
